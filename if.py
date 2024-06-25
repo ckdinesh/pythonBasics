@@ -1,4 +1,4 @@
-a = 4
+a = int(input("Enter a number"))
 if a == 3:
     print("Value of a : " , a)
 elif a == 4:
